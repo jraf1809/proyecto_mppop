@@ -1,0 +1,56 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:  border-box;
+}
+
+	
+   
+body{
+
+    background-image: url;
+}
+.Formulario{
+    width: 400px;
+    background: #24303c;
+    padding: 20px ;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 4px;
+    font-family: 'calibri';
+    color: white;
+    box-shadow: 7px 13pX 37px #000;
+ }
+ .Formulario{
+    font-size: 20px;
+    margin-bottom: 30px;
+    padding: 20px;
+
+    }
+
+.controls{
+width: 100%;
+background-color: #ffffff;
+padding: 10px;
+    }
+
+    .Formulario p{
+        height: 40px;
+        text-align: center;
+        font-size: 18px;
+        
+        }
+        .Formulario a{
+            color: white;
+            text-decoration: none;
+ }
+ .botons{
+    width: 300px;
+    background: #ffffff;
+    padding: 10px ;
+    margin: auto;
+    margin-top: 20px;
+
+ }
